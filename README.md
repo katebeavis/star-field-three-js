@@ -4,7 +4,7 @@ This is a 'star field' created with 3D computer graphics using WebGL and the Thr
 
 ## Screenshot
 <div align="center">
-  <img width="90%" src="images/star-field.png">
+  <img width="50%" src="images/star-field.png">
 </div>
 
 ## To Run
