@@ -1,6 +1,6 @@
 # Star Field
 
-This is a 'star field' created with 3D computer graphics using WebGL and the Three.js library. I followed a tutorial and customised it to add colour to the stars and change their speed.
+This is a 'star field' created with 3D computer graphics using WebGL and the Three.js library. I followed a tutorial as a weekend project, and customised it to add colour to the stars and change their speed.
 
 ## Screenshot
 <div align="center">
